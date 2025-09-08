@@ -1,1 +1,5 @@
+lab1-simple-calculator/
+    ├── SimpleCalculator.java
+    ├── simplecalc_output.png
+    └── simplecalc_uml.png   <-- UML diagram
 
